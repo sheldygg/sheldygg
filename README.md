@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://api.sheldy.space/spotify/">
-</p>
+being of stupid developer
